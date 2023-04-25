@@ -8,6 +8,6 @@ public class NonPrm1 {
     //Strings
     //replace
     String name = "Aman and Akku";
-    System.out.println(name.substring(5 , 9));
+    System.out.println(name.substring(8 , 9));
     }
 }

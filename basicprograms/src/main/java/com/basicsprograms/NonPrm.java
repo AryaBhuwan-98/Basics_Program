@@ -11,3 +11,4 @@ public static void main(String[] args) {
    System.out.println(name3);
 } 
 }
+//int num [13][24] = new int[] []
